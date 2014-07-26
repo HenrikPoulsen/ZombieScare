@@ -1,4 +1,4 @@
-ZombieScare
+Zombie Scare
 ===========
 Welcome! This is a public repository used to track issues, bugs and upcoming features for future releases of Zombie Scare.
 
